@@ -1,0 +1,62 @@
+/* Futuristic File System Styling */
+body {
+    background-color: #0a0a1a;
+    font-family: 'Courier New', monospace;
+}
+
+.neon-text {
+    color: #0ff;
+    text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;
+}
+
+.file-card {
+    background-color: #1a1a3a;
+    border: 1px solid #00ffff;
+    border-radius: 0;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+}
+
+.file-card:hover {
+    background-color: #2a2a4a;
+    border-color: #0ff;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.6);
+    transform: translateY(-5px);
+}
+
+.file-card i {
+    color: #0ff;
+}
+
+/* Item Page Styling */
+.item-page {
+    background-color: #0a0a1a;
+    min-height: 100vh;
+    padding: 3rem 0;
+}
+
+.item-content {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: 50px;
+}
+
+.item-title {
+    color: #0ff;
+    border-bottom: 1px solid #0ff;
+    padding-bottom: 0.5rem;
+}
+
+.status-badge {
+    background-color: #1a1a3a;
+    color: #0ff;
+    border: 1px solid #0ff;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0;
+}
+
+.build-guide img {
+    max-width: 100%;
+    border: 1px solid #0ff;
+    border-radius: 0;
+}
