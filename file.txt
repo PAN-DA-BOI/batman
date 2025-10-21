@@ -1,0 +1,15 @@
+tac belt:
+-medical (wipes, bandages, heat sorce, CAT, sewing kit)
+-grappling hook
+-knives
+-netgun
+
+plate carrier:
+-batteries
+-KIT boards
+-rainbox
+
+jacket:
+-hood
+-masks
+
